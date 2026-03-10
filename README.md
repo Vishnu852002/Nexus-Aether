@@ -85,20 +85,7 @@ Ignore these files:
 ## 🛠️ Developer Setup
 
 If you wish to build from source or contribute:
-
-```bash
-# Clone the repository
-git clone https://github.com/Vishnu852002/nexus-aether.git
-
-# Install dependencies
-npm install
-
-# Run the dev environment
-npm run dev
-
-# Build the Electron executable
-npm run build:app
-```
+Please email me and I will put server source code on github. (I will do it later anyway)
 
 ---
 
