@@ -16,9 +16,10 @@
 
 ## What is Nexus-Aether?
 
-**Nexus-Aether** is a professional, model-agnostic desktop application designed for high-performance AI interaction with a stunning **Frost Glass** aesthetic. It bridges the gap between local power (Ollama, LM Studio) and cloud intelligence (OpenAI, Anthropic, Gemini) through a unified, privacy-first interface.
+**Nexus-Aether** Local-first AI desktop application with a glass UI and multi-model routing.
 
 **Your data never leaves your machine.** Nexus is built for researchers, developers, and power users who need agentic tools without sacrificing data sovereignty.
+*Note: Data stays local unless you choose a cloud model.*
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2502c7bc-8608-41cf-8750-53187b9536bf" width="80%">
@@ -101,7 +102,20 @@ Ignore these files:
 ## 🛠️ Developer Setup
 
 If you wish to build from source or contribute:
-Please contact me at [vishnu.veenadharan@icloud.com](mailto:vishnu.veenadharan@icloud.com) if you need access to the server source code. I plan to publish it soon after cleaning and organizing the repository to ensure no sensitive configuration files are included.
+
+```bash
+# Clone the repository
+git clone https://github.com/Vishnu852002/nexus-aether.git
+
+# Install dependencies
+npm install
+
+# Run the dev environment
+npm run dev
+
+# Build the Electron executable
+npm run build:app
+```
 
 ---
 
