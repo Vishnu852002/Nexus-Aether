@@ -7,7 +7,7 @@
 *Frost Glass UI · Intelligent Routing · Document Studio · Agentic Sandbox · Visual Memory*
 
 ![Version](https://img.shields.io/badge/version-1.0.0-7C5CFC?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-333?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-333?style=flat-square)
 ![Privacy](https://img.shields.io/badge/privacy-100%25%20Local-green?style=flat-square)
 
 </div>
@@ -19,6 +19,10 @@
 **Nexus-Aether** is a professional, model-agnostic desktop application designed for high-performance AI interaction with a stunning **Frost Glass** aesthetic. It bridges the gap between local power (Ollama, LM Studio) and cloud intelligence (OpenAI, Anthropic, Gemini) through a unified, privacy-first interface.
 
 **Your data never leaves your machine.** Nexus is built for researchers, developers, and power users who need agentic tools without sacrificing data sovereignty.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2502c7bc-8608-41cf-8750-53187b9536bf" width="80%">
+</p>
 
 ---
 
@@ -42,6 +46,12 @@ Render HTML/CSS/JS code live in the sidebar. Branch conversations into an infini
 ### 🤖 Agentic Sandbox & Scheduled Tasks
 A secure execution environment for the AI to run Python or Javascript code on your behalf. Automate your life with **Scheduled Agents** that can run background tasks (news summaries, file monitoring) at specific times using specific models.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35b8616e-9c2c-4eed-b12b-c0b08c6d68a6" width="45%" />
+  <img src="https://github.com/user-attachments/assets/81aa7940-8fd1-4b36-98b2-6db5b98c2d51" width="45%" />
+</p>
+
 ---
 
 ## 📦 Download & Install
@@ -49,10 +59,16 @@ A secure execution environment for the AI to run Python or Javascript code on yo
 Nexus-Aether is distributed as a standalone desktop application for maximum performance and privacy.
 
 1. **Download**: Grab the latest installer from the [Releases](https://github.com/Vishnu852002/nexus-aether/releases) page.
-2. **Install**: Run the `Nexus-Aether Setup.exe` (Windows).
-3. **Configure**: Add your local Ollama endpoint or drop in your API keys for cloud providers.
+2. **Install**: Run the `Nexus-Aether Setup.exe` . Windows may display a “Windows protected your PC” warning because the application is not code-signed. Click More info → Run anyway to continue.
+3. **Configure**: Add your local Ollama/LM Studio endpoint or drop in your API keys for cloud providers.
 
-*Note: For the best experience, we recommend installing [Ollama](https://ollama.ai/) to run high-performance models locally on your GPU.*
+*Note: For the best experience, installing Ollama is recommended to run models locally on your GPU. Running models locally can improve privacy and reduce reliance on external APIs.*
+
+⚠️ Platform Notice
+
+Windows builds are currently the primary tested release.
+
+macOS and Linux versions are automatically built through CI and may not be fully tested. Feedback and bug reports from users on these platforms are greatly appreciated. Please open a GitHub issue and include logs and system details if you encounter problems.
 
 ---
 
@@ -85,13 +101,13 @@ Ignore these files:
 ## 🛠️ Developer Setup
 
 If you wish to build from source or contribute:
-Please email me and I will put server source code on github. (I will do it later anyway)
+Please contact me at [vishnu.veenadharan@icloud.com](mailto:vishnu.veenadharan@icloud.com) if you need access to the server source code. I plan to publish it soon after cleaning and organizing the repository to ensure no sensitive configuration files are included.
 
 ---
 
 <div align="center">
 
-**Built for the future of private, agentic computing.**
+**Built for the private, agentic computing.**
 
 </div>
 
