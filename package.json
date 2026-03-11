@@ -1,0 +1,31 @@
+{
+  "name": "nexus-aether",
+  "version": "1.0",
+  "description": "Nexus-Aether API and runtime without proprietary frontend assets.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "self-hosted",
+    "api",
+    "llm",
+    "core"
+  ],
+  "author": "Nexus-Aether Team <team@nexus-aether.local>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vishnu852002/Nexus-Aether.git"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "express": "^4.21.0",
+    "pdf-parse": "^2.4.5",
+    "qrcode-terminal": "^0.12.0",
+    "systeminformation": "^5.23.0",
+    "uuid": "^10.0.0"
+  }
+}

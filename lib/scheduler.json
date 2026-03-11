@@ -1,0 +1,11 @@
+{
+  "activeTasks": {
+    "news_summary": {
+      "enabled": true,
+      "interval": 86400000,
+      "timeOfDay": null,
+      "model": "glm-4.7-flash:latest",
+      "provider": "ollama"
+    }
+  }
+}
