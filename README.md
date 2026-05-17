@@ -6,7 +6,7 @@
 
 *Frost Glass UI · Intelligent Routing · Document Studio · Agentic Sandbox · Visual Memory*
 
-![Version](https://img.shields.io/badge/version-1.0.0-7C5CFC?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.1.2-7C5CFC?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-333?style=flat-square)
 ![Privacy](https://img.shields.io/badge/privacy-100%25%20Local-green?style=flat-square)
 
